@@ -9,7 +9,7 @@ from selenium import webdriver
 from bs4 import BeautifulSoup
 
 window = Tk ()
-window.title("썸네일 추출기")
+window.title("썸네일 추출")
 window.geometry('600x300')
 
 
